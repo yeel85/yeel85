@@ -1,3 +1,6 @@
+<meta name="google-site-verification" content="IQvxMkKIzoT4OYm6gcel2AEnNv-BvQuJmDfFdVcD3Ss" />
+
+
 - 👋 Hi, I’m @yeel85
 - 👀 I’m interested in things that improve our life making decisions! Also, keeping myself updated with current advancement in machine learning space.
 - 💞️ I’m looking to collaborate on any projects related to biomedical signal processing or energy market forecasting (wholesale prices, load and etc.)
